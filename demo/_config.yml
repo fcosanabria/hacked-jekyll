@@ -8,6 +8,7 @@ theme: hacked-jekyll
 exclude:
   - LICENSE
   - README.md
+  - Gemfile
   - vendor/
 
 plugins:
