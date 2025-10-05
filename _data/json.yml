@@ -1,1 +1,37 @@
-# empty
+- key: Name
+  value: Francisco Sanabria 
+- key: Description
+  value:
+    - SRE
+    - Cloud Engineer
+    - Visual Artist
+  typed: true
+# - key: CV
+  # value: cv.pdf
+  # url: /cv.pdf
+- key: Location 
+  value:
+    - SJ, Costa Rica 
+- key: Contact
+  value:
+    - key: job 
+      value: Datasite 
+    - key: location
+      value: AFZ
+- key: Email
+  value: fcosanabria@protonmail.com
+  url: "mailto:fcosanabria@protonmail.com"
+- key: Places
+  value:
+    - value: blog
+      url: https://garden.fcosanabria.com
+    - value: visual art
+      url: https://digitaldeathdisrupt.com
+- key: Profiles
+  value:
+    - value: Instagram
+      url: https://www.instagram.com/digital.death.disrupt
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/fcosanabria
+    - value: GitHub
+      url: https://github.com/fcosanabria
